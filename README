@@ -1,0 +1,9 @@
+Ce projet est un jeu de carte avec une interface graphique.
+
+Les codes et les images utilisées sont dans le dossier "src", le fichier "Nanzhi_FANG_Latex.rtf est le fichier latex demandé.
+
+Dans ce projet, j'utilise le patron de conception MVC, M signifie modèle, V signifie Vue, C signifie controleur. Dans le dossier "src", il y a 4 dossiers: images,jeucarte,vue,et ControlerGame
+Dans le dossier "images", les images utilisés sont stockés. Le dossier "jeucarte" est le "M - modèle", il contient les enums, les interfaces et les classes avec leurs champs (attributs) et leurs méthodes.
+Le dossiers "vue" est le partie "V - Vue", son rôle est de générer une interface graphique. Le dossier "ControlerGame" est le partie "C- Controleur", il contient le programme principal, et sa fonction est connecter l'interface graphique avec le modèle (les classes, les interfaces et les enums)
+
+Si vous voulez s'exécuter ce programme, vous devez lancer "Main.java" dans le dossier "ControlerGame".
